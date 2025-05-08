@@ -43,7 +43,7 @@
         .logo p {
             font-size: 10pt;
             font-weight: bold;
-            color: #fff;
+            color: #000;
             margin: 0;
             text-align: right;
         }
@@ -58,7 +58,7 @@
             bottom: 10px;
             left: 20px;
             text-align: left;
-            color: #fff;
+            color: #000;
         }
 
         .nama {
@@ -68,14 +68,14 @@
             font-size: 12pt;
             font-family: Arial, Helvetica, sans-serif;
             font-weight: bold;
-            color: #fff !important;
+            color: #000 !important;
         }
 
         .telepon {
             position: absolute;
             margin-top: 120pt;
             right: 16pt;
-            color: #fff;
+            color: #000;
         }
 
         .barcode {
